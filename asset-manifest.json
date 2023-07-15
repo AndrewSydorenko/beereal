@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beereal/static/css/main.12e33102.css",
+    "main.js": "/beereal/static/js/main.bc5cfe4d.js",
+    "static/js/787.88a73375.chunk.js": "/beereal/static/js/787.88a73375.chunk.js",
+    "index.html": "/beereal/index.html",
+    "main.12e33102.css.map": "/beereal/static/css/main.12e33102.css.map",
+    "main.bc5cfe4d.js.map": "/beereal/static/js/main.bc5cfe4d.js.map",
+    "787.88a73375.chunk.js.map": "/beereal/static/js/787.88a73375.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12e33102.css",
+    "static/js/main.bc5cfe4d.js"
+  ]
+}
